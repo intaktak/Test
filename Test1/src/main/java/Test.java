@@ -3,6 +3,7 @@
  */
 public class Test {
     public void main(String[] args){
-        System.out.print("го");
+        System.out.print("го2");
+
     }
 }
